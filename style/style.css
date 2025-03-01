@@ -109,10 +109,12 @@ background-color: var(--cor-quarta);
 
 .footer/*Rodapé do da página*/{
     background-color: var(--cor-terciaria);
-    color: #000000;
+    color: var(--cor-primaria);
     font-family: 'Montserrat', sans-serif;
     padding: 20px;
     text-align: center;
     font-size: 20px;/*para definir o tamanho da fonte de um elemento*/
     font-weight: bold;
+    margin: 100px;
+    border-radius: 70px;
 }
